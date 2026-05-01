@@ -1,2 +1,2 @@
-# Property Management Syste
+# Property Management System
 an OOP project
